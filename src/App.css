@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: #ECF0F3;
+}
+
 .container {
   width: 80%;
   margin: auto;
